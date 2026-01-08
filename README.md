@@ -8,7 +8,7 @@ To analyze the dataset and extract meaningful insights using Python.
 - Pandas
 - NumPy
 - Matplotlib
-- Seaborn
+- Seaborn  
 
 ## 📊 Key Steps
 - Data Cleaning
