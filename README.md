@@ -19,3 +19,6 @@ To analyze the dataset and extract meaningful insights using Python.
 
 ## 📈 Outcome
 Identified trends, patterns, and actionable insights from the dataset.
+
+
+![Uploading ChatGPT Image Jan 9, 2026, 11_44_23 AM.png…]()
