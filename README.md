@@ -5,7 +5,7 @@ To analyze the dataset and extract meaningful insights using Python.
 
 ## 🛠 Tools Used
 - Python
-- Pandas
+- Pandas  
 - NumPy
 - Matplotlib
 - Seaborn  
